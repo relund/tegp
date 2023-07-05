@@ -1,0 +1,1 @@
+../linux/tegp -verbose -out test_stdn < input > run.log -xml -f -xml -f5
