@@ -48,7 +48,7 @@ Read me file for the TEGP distribution
      gpl.txt              - The GNU General Public License.
      ReadMe.txt           - This file.
      binaries folder      - The compiled binaries for Linux and Windows.
-     doc folder           - Documentation.
+     doc folder           - Documentation (see this folder for an introduction).
      source folder        - The source code.
 
 3. How to run TEGP
